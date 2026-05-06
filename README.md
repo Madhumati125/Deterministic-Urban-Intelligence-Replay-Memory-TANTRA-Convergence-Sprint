@@ -26,8 +26,6 @@ In this I have used a test.html file so I am mentioning the screenshots of it
 
 And the final output
 
-<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/815ee2d5-695c-45be-b9fe-f5c66a6743b2" />
-
 
 
 <img width="1600" height="725" alt="WhatsApp Image 2026-05-06 at 4 43 12 PM" src="https://github.com/user-attachments/assets/bdb1e2c5-96a1-4640-bf39-44ec4ddfe055" />
